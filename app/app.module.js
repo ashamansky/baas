@@ -1,3 +1,4 @@
-/**
- * Created by oleksandr on 29.11.16.
- */
+(function(){
+    'use strict';
+    angular.module('BAAS',[]);
+})();
